@@ -1,0 +1,7 @@
+numpy
+scipy
+ffmpeg
+PyAudio
+cffi
+six
+serial
