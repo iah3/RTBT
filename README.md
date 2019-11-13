@@ -5,7 +5,8 @@ Relevant Publications:
 RTBT implements the algorithm introduced in the following [paper](https://ieeexplore.ieee.org/abstract/document/8397024):
 ```
 Predictive Real-Time Beat Tracking from Music for Embedded Application.
-Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A., Chowdhury, R.I., Ibtehaz, N., Zaman, S.U., Hyder, R. and Chowdhury, S.S., 2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR) (pp. 297-300). IEEE.
+Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A., Chowdhury, R.I., Ibtehaz, N., Zaman, S.U., Hyder, R. and Chowdhury, S.S., 
+2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)
 ```
 
 #### The algorithm and demonstration through the standalone embedded system won an *Honorable Mention* in the *IEEE Signal Processing Cup 2017*.
