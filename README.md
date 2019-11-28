@@ -1,7 +1,5 @@
 # RTBT: Predictive Real-Time Beat Tracking from Music for Embedded Application
 
-Relevant Publications:
-
 RTBT implements the algorithm introduced in the following [paper](https://ieeexplore.ieee.org/abstract/document/8397024):
 ```
 Predictive Real-Time Beat Tracking from Music for Embedded Application.
