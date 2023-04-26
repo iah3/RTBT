@@ -37,4 +37,16 @@ python test.py
 ```
 [test.py](https://github.com/iah3/RTBT/blob/master/media/test.py) also contains other use cases in comments including processing music acquired through the microphone in real-time.
 
+## Citation:
+```
+@inproceedings{al2018predictive,
+  title={Predictive real-time beat tracking from music for embedded application},
+  author={Al-Hussaini, Irfan and Humayun, Ahmed Imtiaz and Alam, Samiul and Foysal, Shariful Islam and Al Masud, Abdullah and Mahmud, Arafat and Chowdhury, Rakibul Islam and Ibtehaz, Nabil and Zaman, Sums Uz and Hyder, Rakib and others},
+  booktitle={2018 IEEE Conference on multimedia information processing and retrieval (MIPR)},
+  pages={297--300},
+  year={2018},
+  organization={IEEE}
+}
+```
+
 Please read the [README.pdf](https://github.com/iah3/RTBT/blob/master/README.pdf) for details on running the code and the following [paper](https://ieeexplore.ieee.org/abstract/document/8397024) for details on the algorithm.
